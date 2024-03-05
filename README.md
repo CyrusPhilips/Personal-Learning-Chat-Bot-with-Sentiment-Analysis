@@ -7,6 +7,6 @@ Analyzing the sentiment of user inputs.
 Handling user inputs to provide appropriate responses or learn new information.
 Running in a continuous loop until the user decides to exit.
 The chatbot provides a simple yet effective demonstration of natural language understanding and conversation handling. It can be extended and customized further to suit specific use cases or integrate with other systems.
-
+Go through the readmefile.md
 ## PLCB.py is the main code for the chatbot
 ## knowledge_box is the json file where the data is stored after installing do update the file path in the code
