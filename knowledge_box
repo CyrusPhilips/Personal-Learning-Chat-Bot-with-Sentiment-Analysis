@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "General",
+            "questions": [
+                {
+                    "question": "What is your name?",
+                    "answer": "My name is Chatbot."
+                },
+                {
+                    "question": "How are you?",
+                    "answer": "I am doing well, thank you!"
+                },
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "The capital of France is Paris."
+                },
+                {
+                    "question": "hi",
+                    "answer": "hey whatsupp"
+                },
+                {
+                    "question": "do you learn from me too",
+                    "answer": "yep I learn things from you and add it to my knowledge"
+                },
+                {
+                    "question": "i am sad",
+                    "answer": "why what happened, I would like to help you with that"
+                },
+                {
+                    "question": "hello",
+                    "answer": "hello there"
+                },
+                {
+                    "question": "yo",
+                    "answer": "yo"
+                },
+                {
+                    "question": "bro",
+                    "answer": "sup bro"
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "questions": [
+                {
+                    "question": "When was the Declaration of Independence signed?",
+                    "answer": "The Declaration of Independence was signed on July 4, 1776."
+                },
+                {
+                    "question": "Who was the first president of the United States?",
+                    "answer": "George Washington was the first president of the United States."
+                }
+            ]
+        }
+    ]
+}
